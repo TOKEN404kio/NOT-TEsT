@@ -5,7 +5,7 @@ import os
 from flask import Flask
 from threading import Thread
 
-# --- Flask Web Server Setup (Required for Render) ---
+# --- Flask Web Server Setup (Required for Render) -
 app = Flask('')
 
 @app.route('/')
